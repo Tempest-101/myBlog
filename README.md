@@ -1,0 +1,2 @@
+# myBlog
+blog of kloro
